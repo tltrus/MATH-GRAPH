@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="Find shortest path - Dijkstra's algorithm" Width="900" Height="328">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="0.5*"/>
+        </Grid.ColumnDefinitions>
+
+        <local:DrawingVisualClass Grid.Column="0" x:Name="g" Margin="5,5,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="580" Background="Black" Height="272"/>
+
+        <StackPanel Grid.Column="1" Grid.ColumnSpan="2">
+            <Button x:Name="btnUpdate" Content="UPDATE" Margin="5" Padding="10" Click="btnUpdate_Click"/>
+            <Label Content="Shortest path from 0 to 4" FontWeight="Bold"/>
+            <Label Content="Adjacency matrix:" />
+            <DataGrid x:Name="dgMatrix" Width="260" Height="200" HorizontalAlignment="Center" IsReadOnly="True" />
+        </StackPanel>
+    </Grid>
+</Window>
