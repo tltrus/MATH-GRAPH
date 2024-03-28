@@ -14,4 +14,6 @@ https://youtu.be/yZFaNLOjp7o
 
 C# Dijkstra's algorithm for finding a shortest path.
 
+https://youtu.be/oFW-b3IlNWg
+
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/d5fbe348-2224-4441-b112-0ff260281090)
