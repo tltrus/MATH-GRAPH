@@ -14,6 +14,8 @@ https://youtu.be/yZFaNLOjp7o
 
 C# searching algorithm to find the shortest path between two points.
 
+https://youtu.be/vtXSVKCCnpA
+
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/f31a5b66-e890-42f9-b425-dd0a977113ed)
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/3b3d123b-e0ad-49b0-bfc5-cf1ff8808d44)
 
