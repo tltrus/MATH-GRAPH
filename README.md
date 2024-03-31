@@ -37,4 +37,6 @@ C# Algorithm Lee for finding a shortest path.
 
 **Second** right mouse button click - **Finish** point. 
 
+https://youtu.be/TR6HJD3xMRE
+
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/fc473521-0c11-469d-8d5f-59d55d2246cd)
