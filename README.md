@@ -27,3 +27,10 @@ C# Dijkstra's algorithm for finding a shortest path.
 https://youtu.be/oFW-b3IlNWg
 
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/d5fbe348-2224-4441-b112-0ff260281090)
+
+
+# ShortestPath-Lee
+
+C# Algorithm Lee for finding a shortest path.
+
+![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/fc473521-0c11-469d-8d5f-59d55d2246cd)
