@@ -1,0 +1,29 @@
+﻿<Window x:Class="GraphBFS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GraphBFS"
+        mc:Ignorable="d"
+        Title="Path finding. BFS algorithm" Height="653" Width="554" ResizeMode="NoResize" WindowStyle="ThreeDBorderWindow" Loaded="Window_Loaded">
+    <Grid Name="grid1" Margin="0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2.8*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" >
+            <local:DrawingVisualClass x:Name="g" HorizontalAlignment="Center" VerticalAlignment="Center"
+				Width="380" Background="White" Height="380"
+                MouseLeftButtonDown="Canvas_MouseLeftButtonDown" 
+                MouseRightButtonDown="Canvas_MouseRightButtonDown" 
+                MouseMove="canvas_MouseMove" />
+            <Label Content="Console:" />
+            <RichTextBox x:Name="rtbConsole" Height="203" Width="380" Background="Black" Foreground="White"/>
+        </StackPanel>
+        
+        <StackPanel Grid.Column="1">
+            <Button x:Name="btnClear" Content="Clear" HorizontalAlignment="Left" Height="31" Margin="5" VerticalAlignment="Top" Width="100" Click="BtnClear_Click"/>
+            <Button x:Name="btnCalcBFS" Content="Create path BFS" HorizontalAlignment="Left" Height="31" Margin="5" VerticalAlignment="Top" Width="100" Click="BtnBFSStart_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
