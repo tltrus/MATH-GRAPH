@@ -10,6 +10,15 @@ https://youtu.be/yZFaNLOjp7o
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/aa76674e-5241-4c70-a654-a991f1b53bf9)
 
 
+# SearchAlgorithm-BFS
+
+C# searching algorithm to find a path between two points.
+
+https://youtu.be/TX5c0O83FHk
+
+![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/c82eacca-d72f-4126-91e2-b6a2f469b4a4)
+
+
 # SearchAlgorithm_A-star
 
 C# searching algorithm to find the shortest path between two points.
