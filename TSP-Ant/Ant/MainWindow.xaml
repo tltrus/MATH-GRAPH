@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="Ant algorithm - Traveling Salesman Problem" Width="896" Height="663">
+    <Grid>
+        <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <local:DrawingVisualClass x:Name="g" Margin="3" Width="600" Background="#FFD3D8ED" Height="600"/>
+            <StackPanel Margin="3">
+                <Button Content="UPDATE" x:Name="btnUpdate" Width="243" Click="btnUpdate_Click"/>
+                <RichTextBox x:Name="rtbConsole" Margin="0,5,0,0" Width="243" Height="574" Background="White" Foreground="DarkGray" VerticalScrollBarVisibility="Auto">
+                    <RichTextBox.Resources>
+                        <Style TargetType="{x:Type Paragraph}">
+                            <Setter Property="Margin" Value="5"/>
+                        </Style>
+                    </RichTextBox.Resources>
+                </RichTextBox>
+            </StackPanel>
+        </WrapPanel>
+    </Grid>
+</Window>
