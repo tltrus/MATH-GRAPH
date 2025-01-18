@@ -5,7 +5,7 @@
 
 C# Kruskal's algorithm for finding a short path for phone cables.
 
-https://youtu.be/yZFaNLOjp7o
+- Youtube: https://youtu.be/yZFaNLOjp7o
 
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/aa76674e-5241-4c70-a654-a991f1b53bf9)
 
@@ -14,7 +14,7 @@ https://youtu.be/yZFaNLOjp7o
 
 C# searching algorithm to find a path between two points.
 
-https://youtu.be/TX5c0O83FHk
+- Youtube: https://youtu.be/TX5c0O83FHk
 
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/c82eacca-d72f-4126-91e2-b6a2f469b4a4)
 
@@ -23,7 +23,7 @@ https://youtu.be/TX5c0O83FHk
 
 C# searching algorithm to find the shortest path between two points.
 
-https://youtu.be/vtXSVKCCnpA
+- Youtube: https://youtu.be/vtXSVKCCnpA
 
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/f31a5b66-e890-42f9-b425-dd0a977113ed)
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/3b3d123b-e0ad-49b0-bfc5-cf1ff8808d44)
@@ -33,7 +33,7 @@ https://youtu.be/vtXSVKCCnpA
 
 C# Dijkstra's algorithm for finding a shortest path.
 
-https://youtu.be/oFW-b3IlNWg
+- Youtube: https://youtu.be/oFW-b3IlNWg
 
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/d5fbe348-2224-4441-b112-0ff260281090)
 
@@ -46,6 +46,6 @@ C# Algorithm Lee for finding a shortest path.
 
 **Second** right mouse button click - **Finish** point. 
 
-https://youtu.be/TR6HJD3xMRE
+- Youtube: https://youtu.be/TR6HJD3xMRE
 
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/fc473521-0c11-469d-8d5f-59d55d2246cd)
