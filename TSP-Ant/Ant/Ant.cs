@@ -6,7 +6,7 @@ using System.Windows.Media;
 namespace WpfApp
 {
     /*
-        C# version of the ART1 code from the book:
+        C# version of the code from the book:
 
         M. Tim Jones (Author)
         AI Application Programming (Programming Series) 2nd Edition
