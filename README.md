@@ -52,7 +52,7 @@ C# Dijkstra's algorithm for finding a shortest path.
 C# Floyd–Warshall algorithm for finding a shortest path.
 
 - Youtube: 
-- Rutube: 
+- Rutube: https://rutube.ru/video/private/9c26a28458afd71a285a0d4e8ce424ba/?p=ab061Xwt4db0hS6XrcFuRw
 
 ![image](https://github.com/user-attachments/assets/0839f09f-626d-4604-8a09-10d30d5287f0)
 
