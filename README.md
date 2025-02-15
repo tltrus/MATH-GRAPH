@@ -47,6 +47,16 @@ C# Dijkstra's algorithm for finding a shortest path.
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/d5fbe348-2224-4441-b112-0ff260281090)
 
 
+# ShortestPath-FloydWarshall
+
+C# Floyd–Warshall algorithm for finding a shortest path.
+
+- Youtube: 
+- Rutube: 
+
+![image](https://github.com/user-attachments/assets/0839f09f-626d-4604-8a09-10d30d5287f0)
+
+
 # ShortestPath-Lee
 
 C# Algorithm Lee for finding a shortest path.
