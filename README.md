@@ -32,8 +32,8 @@ C# searching algorithm to find a path between two points.
 
 C# searching algorithm to find a path between two points (BFS and DFS).
 
-- Youtube:
-- Rutube:
+- Youtube: https://youtu.be/qWxqKUKIQOo
+- Rutube: https://rutube.ru/video/38988da50f435a3bc14ba44a3e27f739/
 
 ![image](https://github.com/user-attachments/assets/8af5aa30-0240-4c38-96b4-ccadf262c905)
 
