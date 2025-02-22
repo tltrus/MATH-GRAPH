@@ -1,0 +1,28 @@
+﻿<Window x:Class="MathGraph.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MathGraph"
+        mc:Ignorable="d"
+        Title="Graph algorithms: BFS / DFS" Width="900" Height="594">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="0.5*"/>
+        </Grid.ColumnDefinitions>
+
+        <local:DrawingVisualClass Grid.Column="0" x:Name="g" Margin="5,5,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="580" Background="White" Height="548"/>
+
+        <StackPanel Grid.Column="1" Grid.ColumnSpan="2">
+            <Button x:Name="btnUpdate" Content="UPDATE" Margin="5" Padding="10" Click="btnUpdate_Click"/>
+            <RichTextBox Name="rtbConsole" HorizontalAlignment="Left" Margin="5" FontSize="10" Foreground="#FF373636" VerticalScrollBarVisibility="Visible">
+                <RichTextBox.Resources>
+                    <Style TargetType="{x:Type Paragraph}">
+                        <Setter Property="Margin" Value="5"/>
+                    </Style>
+                </RichTextBox.Resources>
+            </RichTextBox>
+        </StackPanel>
+    </Grid>
+</Window>
