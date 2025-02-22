@@ -28,6 +28,16 @@ C# searching algorithm to find a path between two points.
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/c82eacca-d72f-4126-91e2-b6a2f469b4a4)
 
 
+# SearchAlgorithm-BFS_DFS
+
+C# searching algorithm to find a path between two points (BFS and DFS).
+
+- Youtube:
+- Rutube:
+
+![image](https://github.com/user-attachments/assets/8af5aa30-0240-4c38-96b4-ccadf262c905)
+
+
 # SearchAlgorithm_A-star
 
 C# searching algorithm to find the shortest path between two points.
