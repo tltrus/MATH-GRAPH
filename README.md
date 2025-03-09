@@ -1,16 +1,16 @@
 # MATH-GRAPH
  C# grath algorithms
 
- CONTENTS
-1. Graph-construction
-2. PhoneNetwork-Kruskal
-3. SearchAlgorithm-BFS
-4. SearchAlgorithm-BFS_DFS
-5. SearchAlgorithm_A-star
-6. ShortestPath-BellmanFord
-7. ShortestPath-Dijkstra
-8. ShortestPath-FloydWarshall
-9. ShortestPath-Lee
+** CONTENTS**
++ Graph-construction
++ PhoneNetwork-Kruskal
++ SearchAlgorithm-BFS
++ SearchAlgorithm-BFS_DFS
++ SearchAlgorithm_A-star
++ ShortestPath-BellmanFord
++ ShortestPath-Dijkstra
++ ShortestPath-FloydWarshall
++ ShortestPath-Lee
 
 
 ## Graph-construction
