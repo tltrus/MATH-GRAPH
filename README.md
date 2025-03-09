@@ -48,6 +48,14 @@ C# searching algorithm to find the shortest path between two points.
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/3b3d123b-e0ad-49b0-bfc5-cf1ff8808d44)
 
 
+# ShortestPath-BellmanFord
+
+C# Bellman–Ford algorithm for finding a shortest path in Graph with negative weights.
+- Youtube: 
+- Rutube:
+![image](https://github.com/user-attachments/assets/be2ced5a-5bc0-416f-9a54-ae3445c694ab)
+
+
 # ShortestPath-Dijkstra
 
 C# Dijkstra's algorithm for finding a shortest path.
