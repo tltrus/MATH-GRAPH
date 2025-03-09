@@ -1,7 +1,9 @@
 # MATH-GRAPH
  C# grath algorithms
 
-# Graph-construction
+ CONTENTS
+
+## Graph-construction
 
 C# app for graph construction.
 
@@ -10,7 +12,7 @@ C# app for graph construction.
 ![image](https://github.com/user-attachments/assets/d7075c32-0678-4008-965e-d3b2cb820326)
 
 
-# PhoneNetwork-Kruskal
+## PhoneNetwork-Kruskal
 
 C# Kruskal's algorithm for finding a short path for phone cables.
 
@@ -19,7 +21,7 @@ C# Kruskal's algorithm for finding a short path for phone cables.
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/aa76674e-5241-4c70-a654-a991f1b53bf9)
 
 
-# SearchAlgorithm-BFS
+## SearchAlgorithm-BFS
 
 C# searching algorithm to find a path between two points.
 
@@ -28,7 +30,7 @@ C# searching algorithm to find a path between two points.
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/c82eacca-d72f-4126-91e2-b6a2f469b4a4)
 
 
-# SearchAlgorithm-BFS_DFS
+## SearchAlgorithm-BFS_DFS
 
 C# searching algorithm to find a path between two points (BFS and DFS).
 
@@ -38,7 +40,7 @@ C# searching algorithm to find a path between two points (BFS and DFS).
 ![image](https://github.com/user-attachments/assets/8af5aa30-0240-4c38-96b4-ccadf262c905)
 
 
-# SearchAlgorithm_A-star
+## SearchAlgorithm_A-star
 
 C# searching algorithm to find the shortest path between two points.
 
@@ -48,7 +50,7 @@ C# searching algorithm to find the shortest path between two points.
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/3b3d123b-e0ad-49b0-bfc5-cf1ff8808d44)
 
 
-# ShortestPath-BellmanFord
+## ShortestPath-BellmanFord
 
 C# Bellman–Ford algorithm for finding a shortest path in Graph with negative weights.
 - Youtube: https://youtu.be/OjxfkmhcXsg
@@ -57,7 +59,7 @@ C# Bellman–Ford algorithm for finding a shortest path in Graph with negative w
 ![image](https://github.com/user-attachments/assets/be2ced5a-5bc0-416f-9a54-ae3445c694ab)
 
 
-# ShortestPath-Dijkstra
+## ShortestPath-Dijkstra
 
 C# Dijkstra's algorithm for finding a shortest path.
 
@@ -66,7 +68,7 @@ C# Dijkstra's algorithm for finding a shortest path.
 ![image](https://github.com/tltrus/MATH-GRAPH/assets/77125487/d5fbe348-2224-4441-b112-0ff260281090)
 
 
-# ShortestPath-FloydWarshall
+## ShortestPath-FloydWarshall
 
 C# Floyd–Warshall algorithm for finding a shortest path.
 
@@ -76,7 +78,7 @@ C# Floyd–Warshall algorithm for finding a shortest path.
 ![image](https://github.com/user-attachments/assets/0839f09f-626d-4604-8a09-10d30d5287f0)
 
 
-# ShortestPath-Lee
+## ShortestPath-Lee
 
 C# Algorithm Lee for finding a shortest path.
 
