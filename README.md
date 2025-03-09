@@ -51,8 +51,8 @@ C# searching algorithm to find the shortest path between two points.
 # ShortestPath-BellmanFord
 
 C# Bellman–Ford algorithm for finding a shortest path in Graph with negative weights.
-- Youtube: 
-- Rutube:
+- Youtube: https://youtu.be/OjxfkmhcXsg
+- Rutube: https://rutube.ru/video/0c896e876100596e6cdb27df3af7f394/
 
 ![image](https://github.com/user-attachments/assets/be2ced5a-5bc0-416f-9a54-ae3445c694ab)
 
