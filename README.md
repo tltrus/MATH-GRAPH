@@ -2,7 +2,6 @@
  C# grath algorithms
 
 **CONTENTS**
-+ Graph construction / construction algorithms
 + Phone Network / Kruskal algorithm
 + Search algorithm / BFS
 + Search algorithm / BFS and DFS
@@ -12,14 +11,6 @@
 + Shortest path / Floyd-Warshall algorithm
 + Shortest path / Lee algorithm
 
-
-## Graph-construction
-
-C# app for graph construction.
-
-- Youtube: 
-
-![image](https://github.com/user-attachments/assets/d7075c32-0678-4008-965e-d3b2cb820326)
 
 
 ## PhoneNetwork-Kruskal
