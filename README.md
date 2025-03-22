@@ -18,6 +18,9 @@
 
 C# Label propagation algorithm.
 
+- Youtube:
+- Rutube: 
+
 ![image](https://github.com/user-attachments/assets/c89fd7a1-258b-4765-b646-09f49e2a151d)
 
 
