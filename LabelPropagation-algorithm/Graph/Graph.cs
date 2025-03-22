@@ -43,7 +43,7 @@ namespace MathGraph
             this.width = width;
             this.height = height;
         }
-        public void Initialization(int nodes_num, int m_param)
+        public void Construction(int nodes_num, int m_param)
         {
             m_parameter = m_param;
             this.nodes_num = nodes_num;

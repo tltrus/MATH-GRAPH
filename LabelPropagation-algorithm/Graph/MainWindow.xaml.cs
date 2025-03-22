@@ -37,11 +37,16 @@ namespace MathGraph
             Graph = new Graph(rnd, width, height);
             nodes_count = 200;
             m = rnd.Next(1, 8);
-            Graph.Initialization(nodes_num: nodes_count, m_param: m);
+            Graph.Construction(nodes_num: nodes_count, m_param: m);
 
             rtbConsole.Document.Blocks.Clear();
-            rtbConsole.AppendText("Graph construction / Mix of Barabási–Albert network model and nearest neighbor\nm parameter is " + m + "\nnodes number is " + nodes_count);
-
+            rtbConsole.AppendText("Label propagation algorithm."
+                                    + "\nNodes number is " + nodes_count
+                                    + "\n\nSTAGE 1. GRAPH CONSTRUCTION."
+                                    +"\nMix of Barabási–Albert network model and nearest neighbor."
+                                    + "\nm parameter is " + m + "."
+                                    + "\n\nSTAGE 2. LABEL PROPAGATION."
+                                    );
             Drawing();
         }
 
@@ -70,11 +75,11 @@ namespace MathGraph
             else
                 timer.Stop();
 
-                //for (int i = 0; i < nodes_count; ++i)
-                //{
-                //    Graph.SetLabel(i);
-                //}
-                int i = rnd.Next(nodes_count);
+            //for (int i = 0; i < nodes_count; ++i)
+            //{
+            //    Graph.SetLabel(i);
+            //}
+            int i = rnd.Next(nodes_count);
             Graph.SetLabel(i);
             Drawing();
         }
