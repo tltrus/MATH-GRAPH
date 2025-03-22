@@ -2,7 +2,7 @@
  C# grath algorithms
 
 **CONTENTS**
-+ LabelPropagation-algorithm
++ Label propagation algorithm
 + Phone Network / Kruskal algorithm
 + Search algorithm / BFS
 + Search algorithm / BFS and DFS
