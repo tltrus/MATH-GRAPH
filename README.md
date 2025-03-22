@@ -2,6 +2,7 @@
  C# grath algorithms
 
 **CONTENTS**
++ LabelPropagation-algorithm
 + Phone Network / Kruskal algorithm
 + Search algorithm / BFS
 + Search algorithm / BFS and DFS
@@ -11,6 +12,13 @@
 + Shortest path / Floyd-Warshall algorithm
 + Shortest path / Lee algorithm
 
+
+
+## LabelPropagation-algorithm
+
+C# Label propagation algorithm.
+
+![image](https://github.com/user-attachments/assets/c89fd7a1-258b-4765-b646-09f49e2a151d)
 
 
 ## PhoneNetwork-Kruskal
