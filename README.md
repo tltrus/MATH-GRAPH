@@ -19,7 +19,7 @@
 C# Label propagation algorithm.
 
 - Youtube: https://youtu.be/GXY0Hpzn-go
-- Rutube: https://rutube.ru/video/private/dc1228209f25cf269b9dde39bf2da861/?p=5wqjNSDl6fu6XxH6eJUyYw
+- Rutube: https://rutube.ru/video/dc1228209f25cf269b9dde39bf2da861/
 
 ![image](https://github.com/user-attachments/assets/c89fd7a1-258b-4765-b646-09f49e2a151d)
 
