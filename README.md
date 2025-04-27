@@ -32,7 +32,7 @@ C# app with NSW (Navigable Small World).
 NSW is a graph-based algorithm that finds approximate nearest neighbor.
 
 - Youtube:
-- Rutube:
+- Rutube: https://rutube.ru/video/5514c7d7cbdfb8db487df8528a948a3a/
 
 ![image](https://github.com/user-attachments/assets/ef9a2b35-32f9-445a-ba9b-a09d89318e4d)
 
