@@ -3,6 +3,7 @@
 
 **CONTENTS**
 + Label propagation algorithm
++ NSW-algorithm
 + Phone Network / Kruskal algorithm
 + Search algorithm / BFS
 + Search algorithm / BFS and DFS
@@ -22,6 +23,18 @@ C# Label propagation algorithm.
 - Rutube: https://rutube.ru/video/dc1228209f25cf269b9dde39bf2da861/
 
 ![image](https://github.com/user-attachments/assets/c89fd7a1-258b-4765-b646-09f49e2a151d)
+
+
+## NSW-algorithm
+
+C# app with NSW (Navigable Small World).
+
+NSW is a graph-based algorithm that finds approximate nearest neighbor.
+
+- Youtube:
+- Rutube:
+
+![image](https://github.com/user-attachments/assets/ef9a2b35-32f9-445a-ba9b-a09d89318e4d)
 
 
 ## PhoneNetwork-Kruskal
